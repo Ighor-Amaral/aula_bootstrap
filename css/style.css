@@ -1,0 +1,71 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar, .quemsomos {
+    background-color: darkslategrey;
+}
+
+.quemsomos{
+    background-color: #768070;
+    color: #303030;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin_nav{
+    padding-bottom: 50px;
+}
+
+.text_qs{
+    margin-top: 20px;
+    color: rgb(219, 219, 219);
+}
+
+.menu {
+    text-decoration: overline;
+}
+
+.parceiros {
+    background-color: #b1ddd2;
+}
+
+.title_parceiros {
+    color: #303030;
+    padding-bottom: 40px;
+}
+
+.text_servicos {
+    color: rgb(136, 136, 136);
+    text-align: justify;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+
+.img_servicos {
+    border-radius: 5%;
+}
+
+.margin_servicos {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.bg_footer {
+    background-color: #353535;
+    color: white;
+}
+
+.margin_footer {
+    margin: auto;
+    padding: 25px;
+}
+
+.text_footer {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
